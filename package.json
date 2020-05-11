@@ -1,0 +1,25 @@
+{
+  "name": "mothersdaymusic",
+  "version": "1.0.0",
+  "description": "simple html app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiawenZhu/mothersdaymusic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiawenZhu/mothersdaymusic/issues"
+  },
+  "homepage": "https://github.com/JiawenZhu/mothersdaymusic#readme",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "express": "^4.17.1",
+    "swig": "^1.4.2"
+  }
+}
